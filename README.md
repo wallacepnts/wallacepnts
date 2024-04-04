@@ -15,3 +15,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github)](https://docs.github.com/)
 ![Markdown](https://img.shields.io/badge/Markdown-282a36?style=for-the-badge&logo=markdown)
 ![Python](https://img.shields.io/badge/python-282a36?style=for-the-badge&logo=python&logoColor=fff)
+
+### GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wallacepnts&show_icons=true&rank_icon=github&theme=dracula&locale=pt-br)
