@@ -1,21 +1,22 @@
-# Wallace Pontes
+<div align="center">
 
-### Conecte-se comigo
+# Olá 👋, Eu sou o Wallace
 
-[![Perfil DIO](https://img.shields.io/badge/Meu%20Perfil%20na%20DIO-282a36?style=for-the-badge)](https://www.dio.me/users/wallacepnts)
-[![E-mail](https://img.shields.io/badge/Email-282a36?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:wallacepnts@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-282a36?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/wallacepnts/)
+[![](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallacepnts/)
+[![](https://img.shields.io/badge/Email-C71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wallacepnts@gmail.com)
+[![](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wallacepnts)
 
-### Habilidades
 
-![HTML5](https://img.shields.io/badge/HTML-282a36?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-282a36?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-282a36?style=for-the-badge&logo=javascript&logoColor=fff)
-[![Git](https://img.shields.io/badge/Git-282a36?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/doc)
-[![GitHub](https://img.shields.io/badge/GitHub-282a36?style=for-the-badge&logo=github)](https://docs.github.com/)
-![Markdown](https://img.shields.io/badge/Markdown-282a36?style=for-the-badge&logo=markdown)
-![Python](https://img.shields.io/badge/python-282a36?style=for-the-badge&logo=python&logoColor=fff)
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wallacepnts&show_icons=true&rank_icon=github&theme=nord&locale=pt-br&include_all_commits=true&count_private=true" />
+</a>
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacepnts&theme=nord&locale=pt-br&layout=compact" />
+</a>
 
-### GitHub Stats
+<br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wallacepnts&show_icons=true&rank_icon=github&theme=dracula&locale=pt-br)
+![](https://skillicons.dev/icons?i=git,github,html,css,js,py,docker,aws,md)
+
+</div>
+
