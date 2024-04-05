@@ -14,7 +14,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacepnts&theme=nord&locale=pt-br&layout=compact" />
 </a>
 
-<br>
+<br/>
+<br/>
 
 ![](https://skillicons.dev/icons?i=git,github,html,css,js,py,docker,aws,md)
 
